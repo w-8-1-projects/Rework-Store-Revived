@@ -1,0 +1,3 @@
+update - shows a upgrade message to the user
+false - shows a master server error
+true - shows the content
