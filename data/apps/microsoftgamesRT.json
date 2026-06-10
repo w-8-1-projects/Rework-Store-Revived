@@ -1,0 +1,21 @@
+{
+    "displayname": "Microsoft Games RT", 
+    "productType": "app", 
+    "category": "Windows RT", 
+    "publisher": "Microsoft", 
+    "copyright": "© 2009 Microsoft. All rights reserved.", 
+    "description": "Microsoft windows 7 games now on your Windows RT device! this isnt a metro app", 
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "130", 
+    "size": "92,5 MB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserverrevived.vercel.app/data/images/MSGRTico.png", 
+    "pageimg1": "https://rwstoremasterserverrevived.vercel.app/data/images/MSGRTimg1.png", 
+    "pageimg2": "https://rwstoremasterserverrevived.vercel.app/data/images/MSGRTimg2.png", 
+    "pageimg3": "https://rwstoremasterserverrevived.vercel.app/data/images/MSGRTimg3.png", 
+    "downloadUri": "https://rwstoremasterserverrevived.vercel.app/data/appxs/Microsoft.games.for.WinRT.zip" 
+}
+
+
+
