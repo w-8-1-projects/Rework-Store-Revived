@@ -1,0 +1,35 @@
+{
+  "rework_core_system": {
+    "content_theme": {
+      "deployment_groups": {
+        "curated_selection": {
+          "payload": [
+            {
+              "displayname": "?",
+              "productType": "",
+              "downloadUri": "https://rwstoremasterserver.vercel.app/data/8.0/themes/?"
+            },
+            {
+              "displayname": "?",
+              "productType": "",
+              "downloadUri": "https://rwstoremasterserver.vercel.app/data/8.0/themes/?"
+            },
+            {
+              "displayname": "?",
+              "productType": "",
+              "downloadUri": "https://rwstoremasterserver.vercel.app/data/8.0/themes/?"
+            },
+               {
+              "displayname": "?",
+              "productType": "",
+              "downloadUri": "https://rwstoremasterserver.vercel.app/data/8.0/themes/?"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "version": "1.1.2"
+  }
+}

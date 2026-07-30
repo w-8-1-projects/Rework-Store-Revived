@@ -1,0 +1,13 @@
+{
+    "displayname" : "App Name",
+    "productType" : "app",
+    "category" : "your category here",
+    "mainStars": "5",
+    "ratingNumber": "5.0",
+    "ratingsCount": "34",
+    "imgUrl" : "Image URL HERE",
+    "downloadUri" : "Download Link Here"
+
+}
+
+
