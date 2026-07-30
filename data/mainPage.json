@@ -42,9 +42,9 @@
             "auth_service": "https://rwstoremasterserverrevived.vercel.app/auth"
         },
         "toast_notification": {
-            "ShowToast": false,
-            "title": "🔌 𝘙𝘦𝘸𝘰𝘳𝘬-𝘚𝘩𝘶𝘵𝘥𝘰𝘸𝘯",
-            "message": "Due to security concerns and apparently a Microsoft notice and letter we will shut down Rework and all servers on August 5th, 2026."
+            "ShowToast": true,
+            "title": "Rework-Store Revived is switching Server Sides Soon...",
+            "message": "Vercel Updated there security so http debugger pro needs to be open on windows 8 beacuse http debugger pro fixes this if you close it it does not work anymore"
         },
         "content_registry": {
             "live_tile_feed": {
