@@ -1,0 +1,18 @@
+{
+    "displayname": "Codorniz Store",
+    "productType": "App", 
+    "category": "Store",
+    "publisher": "RoulxKaard", 
+    "copyright": "© 2026 RoulxKaard. All rights reserved.",
+    "description": "An store revival's server for 8.1,it used rework store as a base but changed a lot of things",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "152mb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://github.com/SirCoturnix/CodornizStoreServer/blob/main/images/StoreLogo.png?raw=true", 
+    "pageimg1": "", 
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri": https://github.com/SirCoturnix/CodornizStoreServer/releases/download/CodornizReady/CodornizStore_1.0.0.2_Neutral_AnyCPU.appx" 
+}
