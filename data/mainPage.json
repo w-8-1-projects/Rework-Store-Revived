@@ -66,7 +66,9 @@
             "spotlight": {
                 "internal_code": "RW-SPOTLIGHT-PROMO",
                 "payload": [
-					{"uid": "RW_RWS_NEWS", "label": "ReWinMusic", "description": "Music app based on draymusic and it has more content", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/rewinmusicspot.png"}
+					{"uid": "RW_RWM", "label": "ReWinMusic", "description": "Music app based on draymusic and it has more content", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/rewinmusicspot.png"},
+					{"uid": "RW_RWS", "label": "ReWindowsStore", "description": "A shopping mall with 2000+ apps, windows phone support, account system and apps from rework and 8store", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/ReWinStoreimg1.png"}
+                ]
                 ]
             },
             "deployment_groups": {
