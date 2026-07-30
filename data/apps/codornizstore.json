@@ -11,8 +11,8 @@
     "size": "152 MB", 
     "ageRating": "+3", 
     "imgUrl": "https://github.com/SirCoturnix/CodornizStoreServer/blob/main/images/StoreLogo.png?raw=true", 
-    "pageimg1": "", 
-    "pageimg2": "",
-    "pageimg3": "",
+    "pageimg1": "https://rwstoremasterserverrevived.vercel.app/data/images/nophoto.png", 
+    "pageimg2": "https://rwstoremasterserverrevived.vercel.app/data/images/nophoto.png",
+    "pageimg3": "https://rwstoremasterserverrevived.vercel.app/data/images/nophoto.png",
     "downloadUri": "https://github.com/SirCoturnix/CodornizStoreServer/releases/download/CodornizReady/CodornizStore_1.0.0.2_Neutral_AnyCPU.appx" 
 }
