@@ -68,7 +68,7 @@
            "spotlight": {
   "internal_code": "RW-SPOTLIGHT-PROMO",
   "payload": [
-    	{"uid": "RW_RWM", "label": "ReWinMusic", "description": "Music app based on draymusic and it has more content", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/rewinmusicspot.png"},
+    	        {"uid": "RW_RWM", "label": "ReWinMusic", "description": "Music app based on draymusic and it has more content", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/rewinmusicspot.png"},
 		{"uid": "RW_RWS", "label": "ReWindowsStore", "description": "A shopping mall with 2000+ apps, windows phone support, account system and apps from rework and 8store", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/ReWinStorespot.png"},
 	  	{"uid": "RW_G_CTR_L", "label": "cutTheRope", "description": "A mysterious package has arrived, and the little monster inside has only one request… CANDY! Cut the Rope is the award-winning physics-based puzzle game that took the world by storm, now fully optimized for the Windows 8 experience. Combine outstanding physics, tricky levels, and bright visuals to guide the candy into Om Nom's mouth. But be careful—collecting the three gold stars in each level is where the real challenge begins!", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/cutTheRopeimg1.png"},
   ]
@@ -195,8 +195,8 @@
                         {"uid": "RW_MSO_01", "label": "msoclient"},
                         {"uid": "RW_RWA_01", "label": "ReworkWinapp"},
                         {"uid": "RW_RBLX_01", "label": "robloxrework"},
-					    {"uid": "RW_STOREMOBILE_01", "label": "storewp"},
-						{"uid": "RW_STOREMCLASSIC_01", "label": "storeclassic"}
+		        {"uid": "RW_STOREMOBILE_01", "label": "storewp"},
+			{"uid": "RW_STOREMCLASSIC_01", "label": "storeclassic"}
                     ]
                 },
           "collections_registry": {
