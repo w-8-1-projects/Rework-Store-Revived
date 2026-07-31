@@ -76,7 +76,8 @@
             { "label": "Facebook", "uid": "RW_FAC_01" },
             { "label": "travel", "uid": "RW_TRVL_01" },
             { "label": "codornizstore", "uid": "RW_CON_01" },
-            { "label": "8StoreRevived", "uid": "RW_8ST_01" }
+            { "label": "8StoreRevived", "uid": "RW_8ST_01" },
+            { "label": "Chrome", "uid": "RW_CHR_01" }
           ]
         },
         "utility_peak": {
