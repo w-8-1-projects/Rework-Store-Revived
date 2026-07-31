@@ -75,7 +75,8 @@
             { "label": "NokiastorytellerRT", "uid": "RW_NSTRT_01" },
             { "label": "Facebook", "uid": "RW_FAC_01" },
             { "label": "travel", "uid": "RW_TRVL_01" },
-            { "label": "codornizstore", "uid": "RW_CON_01" }
+            { "label": "codornizstore", "uid": "RW_CON_01" },
+            { "label": "8StoreRevived", "uid": "RW_8ST_01" }
           ]
         },
         "utility_peak": {
