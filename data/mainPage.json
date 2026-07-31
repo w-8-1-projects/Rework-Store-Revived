@@ -232,33 +232,72 @@
 						{"uid": "RW_STOREMCLASSIC_01", "label": "storeclassic"}
                     ]
                 },
-                "collections_registry": {
-                    "title": "Collections",
-                    "internal_code": "RW-COLL-008",
-                    "payload": [
-                           {
-                            "title": "Great Apps",
-                            "apps": ["appinstaller", "xboxGamesApp", "freshPaint", "netflix"]
-                        },
-                        {
-                            "title": "Getting Started",
-                            "apps": ["myTube", "adobePhotoshop", "kindle", "raymanJungleRun"]
-                        },
-                        {
-                            "title": "Indie Games",
-                            "apps": ["crossyRoad", "fruitNinja", "whereismyWater", "cutTheRope"]
-                        },
-                      {
-                        "title": "The Newsstand",
-                        "apps": [ "weather", "news", "travel", "finance" ]
-                      },
-                        {
-                            "spacer": true
-                        }
-                    ]
-                }
-            }
-        },
+          "collections_registry": {
+  "title": "Collections",
+  "internal_code": "RW-COLL-008",
+  "payload": [
+    {
+      "title": "Great Apps",
+      "apps": ["appinstaller", "xboxGamesApp", "freshPaint", "netflix"]
+    },
+    {
+      "title": "Getting Started",
+      "apps": ["myTube", "adobePhotoshop", "kindle", "raymanJungleRun"]
+    },
+    {
+      "title": "Indie Games",
+      "apps": ["crossyRoad", "fruitNinja", "whereismyWater", "cutTheRope"]
+    },
+    {
+      "title": "The Newsstand",
+      "apps": ["weather", "news", "travel", "finance"]
+    },
+    {
+      "title": "Music & Radio",
+      "apps": ["ReWinMusic", "DrayMusic", "MixRadio", "deezer", "vlcplayer", "ReWinMusicMobile", "ReSpot"]
+    },
+    {
+      "title": "Social Networks",
+      "apps": ["twitter", "Facebook", "Socialite", "ImMobile"]
+    },
+    {
+      "title": "Shopping Hub",
+      "apps": ["ReWindowsStore", "amazon", "ebay", "PSStore", "8StoreRevived", ]
+    },
+    {
+      "title": "System Utilities",
+      "apps": ["appinstaller", "CMDInjector", "Notepad++RT", "winrtmetroinstaller", "networkSpeedTest", "openTracks", "Measureit"]
+    },
+    {
+      "title": "Lifestyle & Travel",
+      "apps": ["food&drink", "tortasypostres", "travel", "health&fitness"]
+    },
+    {
+      "title": "Angry Birds Saga",
+      "apps": ["angryBirdsSpace", "angryBirdsStarWars"]
+    },
+    {
+      "title": "Endless Runners",
+      "apps": ["templeRunOz", "sonicDash", "raymanJungleRun", "minionrush", "crossyRoad"]
+    },
+    {
+      "title": "Puzzle & Physics",
+      "apps": ["cutTheRope", "whereismyWater", "FiveInArow", "Sudoku", "dogedodge", "flappybird"]
+    },
+    {
+      "title": "Farming Simulators",
+      "apps": ["farmingsimulator14", "farmingsimulator14WinRT", "farmingsimulator16"]
+    },
+    {
+      "title": "Books & Documents",
+      "apps": ["evernote", "kindle", "adobereader", "Notespace", "LiveText", "Siena"]
+    },
+
+    {
+      "spacer": true
+    }
+  ]
+}
         "metadata_extension": {
             "encryption_layer": "AES-256-GCM",
             "cache_ttl": 86400
