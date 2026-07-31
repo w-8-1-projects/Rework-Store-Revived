@@ -68,42 +68,9 @@
            "spotlight": {
   "internal_code": "RW-SPOTLIGHT-PROMO",
   "payload": [
-    {
-      "uid": "RW_RWM",
-      "label": "ReWinMusic",
-      "description": "Music app based on draymusic and it has more content",
-      "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/rewinmusicspot.png"
-    },
-    {
-      "uid": "RW_RWS",
-      "label": "ReWindowsStore",
-      "description": "A shopping mall with 2000+ apps, windows phone support, account system and apps from rework and 8store",
-      "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/ReWinStorespot.png"
-    },
-    {
-      "uid": "RW_XBOX_01",
-      "label": "xbox Games",
-      "description": "Official Xbox hub – play, browse, and manage your console & PC games seamlessly",
-      "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/xboxGamesAppimg1.PNG"
-    },
-    {
-      "uid": "RW_NTFX_01",
-      "label": "netflix",
-      "description": "Stream thousands of movies, series, and originals in stunning quality on any device",
-      "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/netfliximg1.png"
-    },
-    {
-      "uid": "RW_VLC_01",
-      "label": "vlc player",
-      "description": "Lightweight, open-source media player that handles every format – audio, video, and streams",
-      "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/vlcplayerimg1.png"
-    },
-    {
-      "uid": "RW_ADOBE_PS",
-      "label": "adobe Photoshop",
-      "description": "Industry-standard photo editing & graphic design tool – now fully optimised for Windows on ARM",
-      "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/adobePhotoshopimg1.PNG"
-    }
+    	{"uid": "RW_RWM", "label": "ReWinMusic", "description": "Music app based on draymusic and it has more content", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/rewinmusicspot.png"},
+		{"uid": "RW_RWS", "label": "ReWindowsStore", "description": "A shopping mall with 2000+ apps, windows phone support, account system and apps from rework and 8store", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/ReWinStorespot.png"},
+	  	{"uid": "RW_G_CTR_L", "label": "cutTheRope", "description": "A mysterious package has arrived, and the little monster inside has only one request… CANDY! Cut the Rope is the award-winning physics-based puzzle game that took the world by storm, now fully optimized for the Windows 8 experience. Combine outstanding physics, tricky levels, and bright visuals to guide the candy into Om Nom's mouth. But be careful—collecting the three gold stars in each level is where the real challenge begins!", "image_url": "https://rwstoremasterserverrevived.vercel.app/data/images/cutTheRopeimg1.png"},
   ]
 }
             "deployment_groups": {
