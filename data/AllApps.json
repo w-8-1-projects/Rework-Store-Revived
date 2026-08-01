@@ -12,6 +12,7 @@
           "internal_code": "RW-FL-001",
           "payload": [
             { "label": "Bing", "uid": "RW_B_14" },
+            { "label": "Minecraft", "uid": "RW_MC_14" },
             { "label": "BuildDP", "uid": "RW_B11_14" },
             { "label": "AlarmsDP", "uid": "RW_ADP_14" },
             { "label": "CheckM8", "uid": "RW_CM8_14" },
