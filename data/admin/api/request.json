@@ -1,0 +1,38 @@
+{
+  "pending_apps": [
+    {
+      "id": "app_1712345678901_abc123",
+      "name": "My Awesome App",
+      "author": "Jane Developer",
+      "description": "A revolutionary app that does amazing things.",
+      "downloadLink": "https://example.com/download/myapp.zip",
+      "logo": "https://example.com/logo.png",
+      "screenshot1": "https://example.com/screenshot1.png",
+      "screenshot2": "https://example.com/screenshot2.png",
+      "screenshot3": "https://example.com/screenshot3.png",
+      "category": "Productivity",
+      "status": "pending",
+      "submittedAt": 1712345678901,
+      "reviewedAt": null,
+      "reviewNote": ""
+    },
+    {
+      "id": "app_1712345678902_def456",
+      "name": "Game Master",
+      "author": "John Gamer",
+      "description": "The ultimate gaming experience.",
+      "downloadLink": "https://example.com/download/game.zip",
+      "logo": "https://example.com/game-logo.png",
+      "screenshot1": "https://example.com/game-ss1.png",
+      "screenshot2": "https://example.com/game-ss2.png",
+      "screenshot3": "",
+      "category": "Games",
+      "status": "pending",
+      "submittedAt": 1712345678902,
+      "reviewedAt": null,
+      "reviewNote": ""
+    }
+  ],
+  "total_pending": 2,
+  "export_date": "2026-08-01T12:00:00.000Z"
+}
