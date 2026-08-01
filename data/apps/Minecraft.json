@@ -1,0 +1,19 @@
+{
+    "displayname" : "Minecraft for windows 8.1",
+    "productType" : "Game",
+    "category" : "Games",
+    "publisher": "Frankie",
+    "copyright": "©2026 Frankie. All rights reserved.",
+    "description": " Minecraft is a sandbox game developed and published by the Swedish company Mojang Studios. Following its initial public alpha release as an early access title in 2009, it was formally released in November 2011 for personal computers. ",
+    "mainStars": "4",
+    "ratingNumber": "4.1",
+    "ratingsCount": "53",
+    "size": "98.1 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserverrevived.vercel.app/data/images/Minecraft.png",
+    "pageimg1": "add minecraft images pls",
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri" : "https://lenovo.tailba17a8.ts.net/Minecraft_1.0.0_WIN81.appx"
+
+}
