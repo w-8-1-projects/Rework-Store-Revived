@@ -197,7 +197,7 @@
                         {"uid": "RW_RBLX_01", "label": "robloxrework"},
 					    {"uid": "RW_STOREMOBILE_01", "label": "storewp"},
 						{"uid": "RW_STOREMCLASSIC_01", "label": "storeclassic"},
-						{"uid": "RW_OPENUNITED_01", "label": "OpenUnited"}
+						{"uid": "RW_OPENUNITED_01", "label": "openunited"}
                     ]
                 },
                 "collections_registry": {
