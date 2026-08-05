@@ -1,6 +1,6 @@
 {
     "displayname": "Paintplay",
-    "productType": "App", 
+    "productType": "app", 
     "category": "Beta Apps",
     "publisher": "Microsoft", 
     "copyright": "© 2011 Microsoft. All rights reserved.",
@@ -8,7 +8,7 @@
     "mainStars": "4", 
     "ratingNumber": "4.3", 
     "ratingsCount": "651",
-    "size": "7.25mb", 
+    "size": "7,25 MB", 
     "ageRating": "+3", 
     "imgUrl": "https://w-8-1-projects.github.io/Rework-Store-Revived/data/images/paintplay.png", 
     "pageimg1": "", 
