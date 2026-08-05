@@ -10,10 +10,10 @@
     "ratingsCount": "162",
     "size": "152 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://rwstoremasterserverrevived.vercel.app/data/images/appinstaller.png",
-    "pageimg1": "https://rwstoremasterserverrevived.vercel.app/data/images/appinstallerimg1.PNG",
-    "pageimg2": "https://rwstoremasterserverrevived.vercel.app/data/images/appinstallerimg2.PNG",
-    "pageimg3": "https://rwstoremasterserverrevived.vercel.app/data/images/appinstallerimg3.PNG",
+    "imgUrl" : "https://w-8-1-projects.github.io/Rework-Store-Revived/data/images/appinstaller.png",
+    "pageimg1": "https://w-8-1-projects.github.io/Rework-Store-Revived/data/images/appinstallerimg1.PNG",
+    "pageimg2": "https://w-8-1-projects.github.io/Rework-Store-Revived/data/images/appinstallerimg2.PNG",
+    "pageimg3": "https://w-8-1-projects.github.io/Rework-Store-Revived/data/images/appinstallerimg3.PNG",
     "downloadUri" : "https://github.com/modernw/AppInstallerForWin8/releases/download/1.0.1.13/InstallerSetup.exe"
 
 }
