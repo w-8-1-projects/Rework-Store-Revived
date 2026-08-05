@@ -220,6 +220,10 @@
                         "title": "The Newsstand",
                         "apps": [ "weather", "news", "travel", "finance" ]
                       },
+						        {
+                        "title": "The 1111",
+                        "apps": [ "weather", "news", "travel", "finance" ]
+                      },
                         {
                             "spacer": true
                         }
