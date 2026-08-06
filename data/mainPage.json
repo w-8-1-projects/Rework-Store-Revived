@@ -237,8 +237,8 @@
 	  "apps": ["MicrosoftSolitaireCollection", "Sudoku", "FiveInArow"]
   },
 						  {
-							  "title": "Browsers & Search", "apps":
-							  ["Chrome", "GoogleSearch", "Bing"]
+							  "title": "Browsers & Search", 
+							  "apps":   ["Chrome", "GoogleSearch", "Bing"]
 						  },
 
                         {
