@@ -43,8 +43,8 @@
         },
         "toast_notification": {
             "ShowToast": false,
-            "title": "Rework-Store Revived is switching Server Sides Soon...",
-            "message": "Vercel Updated there security so http debugger pro needs to be open on windows 8 beacuse http debugger pro fixes this if you close it it does not work anymore"
+            "title": "",
+            "message": ""
         },
         "content_registry": {
             "live_tile_feed": {
