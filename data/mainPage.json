@@ -221,9 +221,26 @@
                         "apps": [ "weather", "news", "travel", "finance" ]
                       },
 						        {
-                        "title": "The 1111",
-                        "apps": [ "weather", "news", "travel", "finance" ]
+                        "title": "Music and video",
+                        "apps": [ "myTube", "netflix", "MixRadio", "vlcplayer", "DrayMusic", "ReWinMusic", "" ]
                       },
+						  { 
+							  "title": "Store Alternatives",
+							  "apps": ["PSStore", "codornizstore", "winrtmetroinstaller", "8StoreRevived"]
+						  },
+						  { 
+							  "title": "Video & TV", 
+							  "apps": ["netflix", "comedycentral", "vlcplayer"] 
+						  },
+  { 
+	  "title": "Classic Games Pack", 
+	  "apps": ["MicrosoftSolitaireCollection", "Sudoku", "FiveInArow"]
+  },
+						  {
+							  "title": "Browsers & Search", "apps":
+							  ["Chrome", "GoogleSearch", "Bing"]
+						  },
+
                         {
                             "spacer": true
                         }
